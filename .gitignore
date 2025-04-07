@@ -1,0 +1,8 @@
+**/__pycache__/
+
+glove.6B/*
+!glove.6B/README.md
+
+torch.save/*
+!torch.save/README.md
+!torch.save/model.pth

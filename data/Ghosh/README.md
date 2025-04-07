@@ -1,0 +1,1 @@
+from https://github.com/MirunaPislar/Sarcasm-Detection/tree/master/res/datasets/ghosh
